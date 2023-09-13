@@ -20,9 +20,9 @@
         "issues": "https://github.com/sebastianbergmann/dbunit/issues"
     },
     "require": {
-        "php": "^7.1 || ^8.0",
+        "php": "^7.1 || ^8.0 || ^8.1",
         "phpunit/phpunit": "~9.0",
-        "symfony/yaml": "^3.0 || ^4.0",
+        "symfony/yaml": ">=3.0",
         "ext-pdo": "*",
         "ext-simplexml": "*"
     },
